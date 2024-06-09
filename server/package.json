@@ -1,0 +1,18 @@
+{
+  "name": "lookml-lsp",
+  "description": "syntax highlighting, code completion, and other language-specific features for the lookml DSL",
+  "author": "Orest Tokovenko",
+  "license": "MIT",
+  "version": "0.0.1",
+  "engines": {
+    "node": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "REPLACE_ME"
+  },
+  "dependencies": {
+    "vscode-languageserver": "^8.1.0",
+    "vscode-languageserver-textdocument": "^1.0.8"
+  }
+}
